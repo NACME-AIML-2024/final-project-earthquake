@@ -3,27 +3,27 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
+# Final Project
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Artificial Intelligence - Machine Learning (AIML) Intensive Summer Bootcamp at the [University of Southern California](https://viterbischool.usc.edu)
 
 <!--
 List all of the members who developed the project and
-link to each members respective GitHub profile
+link to each member's respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `MAJOR` - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `MAJOR` - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `MAJOR` - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `MAJOR` - `STUDENTS_UNIVERSITY`
+- [Darryn Dunn](https://github.com/GreeksGods) - `Computer Science: Concentration in Video Game Development` - `University of the Pacific (UOP)`
+- [Eliska Peacock](https://github.com/eliskuh) - `Symbolic Systems: Concentration in Media & Communication` - `Stanford` 
+- [Johnny Williams](https://github.com/BlackMoonCoder) - `Computer Science: Concentration in Software Engineering` - `Louisiana State University (LSU)` 
 
 ## Description
 <!--
-Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
+Could you briefly describe what your project is doing and what tools are used? In addition, you can drop screenshots directly into your README file to add them to your README. Could you take these from your presentations?
 -->
+This project, led by Professor Chukwuebuka Nweke, focuses on estimating and predicting ground shaking intensity for earthquake engineering. By analyzing microtremor data from a Utah site, it seeks to understand the complex interactions of seismic waves with subsurface geologic features. The project involves identifying both observed and latent features from horizontal-to-vertical spectral ratio (mHVSR) curves, mapping these features, and developing a regression model to describe the relationship between them and the site-specific seismic responses.
 
 ## Usage instructions
 <!--
-Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
+Give details on how to install a fork and install your project. You can get all of the Python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
 1. Fork this repo
 2. Change directories into your project
