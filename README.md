@@ -21,11 +21,9 @@ Could you briefly describe what your project is doing and what tools are used? I
 -->
 This project, led by Professor Chukwuebuka Nweke, focuses on estimating and predicting ground shaking intensity for earthquake engineering. By analyzing microtremor data from a Utah site, it seeks to understand the complex interactions of seismic waves with subsurface geologic features. The project involves identifying both observed and latent features from horizontal-to-vertical spectral ratio (mHVSR) curves, mapping these features, and developing a regression model to describe the relationship between them and the site-specific seismic responses.
 
-## Usage instructions
-<!--
-Give details on how to install a fork and install your project. You can get all of the Python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
--->
-1. Fork this repo
-2. Change directories into your project
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
+## Presentations
+
+Slideshow: https://docs.google.com/presentation/d/11Zdzf-rf7Cmzk8GiqWX2ohVi4NAAmndL2K1t2xU4m2w/edit?usp=sharing
+
+Poster:
+[Earthquake Group Poster Presentation (4).pdf](https://github.com/user-attachments/files/16447678/Earthquake.Group.Poster.Presentation.4.pdf)
