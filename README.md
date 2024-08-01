@@ -34,8 +34,7 @@ The project utilizes autoencoders to help identify latent features that may cont
 
 [Slideshow](https://docs.google.com/presentation/d/11Zdzf-rf7Cmzk8GiqWX2ohVi4NAAmndL2K1t2xU4m2w/edit?usp=sharing)
 
-Poster:
-[Earthquake Group Poster Presentation (4).pdf](https://github.com/user-attachments/files/16447678/Earthquake.Group.Poster.Presentation.4.pdf)
+[Poster](https://github.com/user-attachments/files/16447678/Earthquake.Group.Poster.Presentation.4.pdf)
 
 ## The Data
 We are using a dataset provided by graduate students working on their PhD thesis. The data, collected in Utah, is organized into 3-hour segments, each containing an embedded 3-minute segment for frequency comparison.
