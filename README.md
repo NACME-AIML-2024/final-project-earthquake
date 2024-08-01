@@ -27,3 +27,44 @@ Slideshow: https://docs.google.com/presentation/d/11Zdzf-rf7Cmzk8GiqWX2ohVi4NAAm
 
 Poster:
 [Earthquake Group Poster Presentation (4).pdf](https://github.com/user-attachments/files/16447678/Earthquake.Group.Poster.Presentation.4.pdf)
+
+## The Data
+We are using a dataset provided by graduate students working on their PhD thesis. The data, collected in Utah, is organized into 3-hour segments, each containing an embedded 3-minute segment for frequency comparison.
+
+<img width="612" alt="Screenshot 2024-08-01 at 9 04 03 AM" src="https://github.com/user-attachments/assets/fdd829a3-92a0-4c1d-9797-08dad1448ed6">
+
+To help us visualize the data initially, we plotted each 3-minute interval against the frequency for one three-hour segment. This provided a clear visual representation, allowing us to compare future data to ensure it resembles the original raw data.
+
+<img width="612" alt="Screenshot 2024-08-01 at 9 04 11 AM" src="https://github.com/user-attachments/assets/08c14a5e-a37d-413c-962e-613ff0f43af8">
+
+## The Autoencoder
+
+An autoencoder consists of two main parts: an encoder and a decoder. The encoder compresses the input into a latent space representation, while the decoder reconstructs the original input from this compact representation.
+
+<img width="430" alt="Screenshot 2024-08-01 at 9 05 00 AM" src="https://github.com/user-attachments/assets/62f2af9b-9180-4d12-a4ea-398fbff15880">
+
+## Seen Features
+
+Before plotting the output of the autoencoder, we needed to visualize all the observed features. These features included the area under the curve, peak amplitudes, peak frequencies, and other relevant metrics. By plotting these features, we could gain a comprehensive understanding of the data's characteristics. The following graph illustrates the peak amplitude, area under the curve, and peak frequencies, providing a detailed view of the key features we analyzed.
+
+<img width="822" alt="Screenshot 2024-08-01 at 9 04 26 AM" src="https://github.com/user-attachments/assets/02bbbe97-2bbb-423c-85e3-3ddaeeb7fd4d">
+
+Examining the area under the curve made it challenging to pinpoint the exact times, as the details were not immediately clear. To address this, we created a separate, more focused graph specifically to highlight the area under the curve. This additional visualization enhances our understanding by providing a clearer, more detailed view of the time intervals, ensuring we can accurately interpret the data.
+
+<img width="685" alt="Screenshot 2024-08-01 at 9 04 37 AM" src="https://github.com/user-attachments/assets/8ac02118-ddc2-44f3-bb37-fc8eccb908ec">
+
+After plotting the area under the curve for a single three-hour interval, we realized that this approach might not capture the overall trends effectively. Therefore, we decided it would be more informative to calculate and represent the average area under the curve across all eight three-hour intervals we had. This approach allows us to gain a clearer understanding of the data's overall patterns and trends, facilitating better analysis and comparison.
+
+<img width="440" alt="Screenshot 2024-08-01 at 9 04 49 AM" src="https://github.com/user-attachments/assets/0838db9a-c852-4ed0-a415-4c8137c3ca33">
+
+## Unseen Features
+
+## Questions
+
+Please feel free to contact us
+
+Darryn Dunn: d_dunn5@u.pacific.edu
+
+Eliska Peacock: eliska@stanford.edu
+
+Johnny Williams: Jwil854@lsu.edu
