@@ -77,6 +77,20 @@ Now that we have visualized the features plotted against themselves, we can take
 <img width="409" alt="Screenshot 2024-08-01 at 9 52 44 AM" src="https://github.com/user-attachments/assets/ac82fae4-7805-40ae-8a9d-79048b139751">
 <img width="409" alt="Screenshot 2024-08-01 at 9 52 48 AM" src="https://github.com/user-attachments/assets/5992a737-dd8a-4587-adc0-b97e098680ef">
 
+## Usage Instructions
+
+1. Fork this repo
+2. Change directories into your project
+3. On the command line, type the following:
+   1. ```pip install numpy```
+   2. ```pip install pandas```
+   3. ```pip install torch```
+   4. ```pip install seaborn```
+   5. ```pip install matplotlib```
+   6. ```pip install scipy```
+   7. ```pip install scikit-learn```
+4. Locate and open the file you downloaded from this repo
+
 ## Questions
 
 Please feel free to contact us
