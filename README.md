@@ -12,14 +12,17 @@ link to each member's respective GitHub profile
 -->
 Developed by: 
 - [Darryn Dunn](https://github.com/GreeksGods) - `Computer Science: Concentration in Video Game Development` - `University of the Pacific (UOP)`
-- [Eliska Peacock](https://github.com/eliskuh) - `Symbolic Systems: Concentration in Media & Communication` - `Stanford` 
+- [Eliska Peacock](https://github.com/eliskuh) - `Symbolic Systems: Concentration in Media & Communication` - `Stanford University` 
 - [Johnny Williams](https://github.com/BlackMoonCoder) - `Computer Science: Concentration in Software Engineering` - `Louisiana State University (LSU)` 
 
 ## Description
 <!--
 Could you briefly describe what your project is doing and what tools are used? In addition, you can drop screenshots directly into your README file to add them to your README. Could you take these from your presentations?
 -->
-This project, led by Professor Chukwuebuka Nweke, focuses on estimating and predicting ground shaking intensity for earthquake engineering. By analyzing microtremor data from a Utah site, it seeks to understand the complex interactions of seismic waves with subsurface geologic features. The project involves identifying both observed and latent features from horizontal-to-vertical spectral ratio (mHVSR) curves, mapping these features, and developing a regression model to describe the relationship between them and the site-specific seismic responses.
+This project, led by Professor Chukwuebuka Nweke, focuses on estimating and predicting ground shaking intensity for earthquake engineering. The core of this research involves analyzing [microtremor data collected from a site in Utah](https://drive.google.com/drive/folders/16O1wZpk-KWNdID4VLngiQLZLDRB7E2hB?usp=share_link) in order to gain a deeper understanding of the complex interactions between seismic waves and subsurface structures.
+The project involves identifying both observed and latent features from the horizontal-to-vertical spectral ratio (HVSR) curves. By mapping these features against one another, the research seeks to detail the relationship between subsurface geologic structures and seismic waves.
+The project utilizes autoencoders to help identify latent features that may contribute to understanding of seismic responses. The insights gained from this research could lead to more accurate seismic hazard assessments and better-informed earthquake engineering practices. By leveraging advanced data analysis techniques, it aims to enhance our ability to predict ground shaking intensity and improve the safety and resilience of structures in earthquake-prone areas.
+
 
 ## Presentations
 
